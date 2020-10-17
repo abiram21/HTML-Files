@@ -1,0 +1,40 @@
+<div class="row">
+    <div class="col-md-6">
+        <a  class="btn btn-link"><i class="fa fa-arrow-circle-o-left"></i> Back To Dashboard</a>
+    </div>
+    <div class="col-md-6">
+        <div class="btn-group pull-right">
+            <a  class="btn btn-primary" style="right:30px;"> Edit</a>
+            <button type="button" class="btn btn-danger"  style="right:5px;">Delete</button>
+        </div>
+    </div>
+</div>
+
+<div  class="card container">
+    <h3 class="card-header"></h3>
+    <div style="padding-left: 10% ;">
+        <div class="row">
+
+            <h4> Student ID : </h4>
+        </div>
+        <div class="row">
+
+            <h3 class="pull-right">
+                Age : 
+            </h3>
+        </div>
+        <div class="row">
+
+            <h3 class="pull-right">
+                DOB : 
+            </h3>
+        </div>
+        <div class="row">
+
+            <h3 class="pull-right">
+                Gender : 
+            </h3>
+
+        </div>
+    </div>
+</div>
